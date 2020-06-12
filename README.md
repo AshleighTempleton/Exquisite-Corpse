@@ -4,7 +4,7 @@
 * Tiny, ~~the magnificent~~ *the tiny*;
 * Gandalf; __the grey__
 * Hector, *the well endowed*.
-!(https://66.media.tumblr.com/d8a698faf403e809a9ad94ced9e5c02d/tumblr_mnfag86Exd1qb05aco1_250.gifv)
+![Hector gif](https://66.media.tumblr.com/d8a698faf403e809a9ad94ced9e5c02d/tumblr_mnfag86Exd1qb05aco1_250.gifv)
 ---
 Car c'est __un bon roman__.
 *Et* c'est AUSSI __une belle histoire__.
@@ -18,4 +18,4 @@ tres vite il se rapproche donc et **VOIT** ...
 Comme les technologies *cryogéniques* sont hors de prix, il a choisi de voyager à la vitesse supraluminique mais pour se faire il avait besoin d'un moteur à distorsion et  d'un réacteur antimatière 
 *Comme les réacteurs* sont hors de prix également, il a ~~simplement~~ décidé de s'acheter une combinaison adéquate et de *voyager* via le trous de ver le plus proche. 
 ---
-!(https://bit.ly/2YstgDU)
+![he gets it](https://bit.ly/2YstgDU)
